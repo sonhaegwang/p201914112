@@ -3,6 +3,7 @@ public class Main {
       System.out.println("201914112 손해광");
       System.out.println(Hello.sum(10));
       System.out.println(Hello.sum(100));
+      System.out.println(Hello.sum(1000));
     }
   }
   
